@@ -1,0 +1,29 @@
+{
+  "_note": "Starting roster. Setters = the 9 people in the 7 PM Calling Inputs report (23 Nov 2026). Closers = Team Muskan and Team Rishabh as listed in Sep 2026. Everyone else in the CSV is added automatically as 'unclassified' until a role is set on the Roster page.",
+  "members": [
+    {"name": "Ansh Singh", "email": "anshraj.singh@suraasa.com", "role": "setter"},
+    {"name": "Yusuf Lari", "email": "yusuf.lari@suraasa.com", "role": "setter"},
+    {"name": "Shweta Pandey", "email": "shweta.pandey@suraasa.com", "role": "setter"},
+    {"name": "Prateekhya Pal", "email": "prateekhya.pal@suraasa.com", "role": "setter"},
+    {"name": "Nikhil Singh", "email": "nikhil.singh@suraasa.com", "role": "setter"},
+    {"name": "Atulya Goswami", "email": "atulya.goswami@suraasa.com", "role": "setter"},
+    {"name": "Harsh Vindra Pandey", "email": "harsh.pandey@suraasa.com", "role": "setter"},
+    {"name": "Vrinda Kapur", "email": "vrinda.kapur@suraasa.com", "role": "setter"},
+    {"name": "Amit Kumar Rai", "email": "amit.rai@suraasa.com", "role": "setter"},
+
+    {"name": "Muskan Dua", "email": "muskan.dua@suraasa.com", "role": "closer", "team": "Team Muskan", "notes": "Team lead"},
+    {"name": "Preetpal Singh", "email": "preetpal.singh@suraasa.com", "role": "closer", "team": "Team Muskan"},
+    {"name": "Bhaavya Jain", "email": "bhavya.jain@suraasa.com", "role": "closer", "team": "Team Muskan", "aliases": ["Bhavya Jain"]},
+    {"name": "Rhythm .", "email": "rhythm@suraasa.com", "role": "closer", "team": "Team Muskan", "aliases": ["Rhythm"]},
+    {"name": "Ananya Jaiswal", "email": "ananya.jaiswal@suraasa.com", "role": "closer", "team": "Team Muskan"},
+
+    {"name": "Sakshi Dev", "email": "sakshi.dev@suraasa.com", "role": "closer", "team": "Team Rishabh"},
+    {"name": "Akash Sehta", "email": "akash.sehta@suraasa.com", "role": "closer", "team": "Team Rishabh"},
+    {"name": "Priyo Barik", "email": "priyo.barik@suraasa.com", "role": "closer", "team": "Team Rishabh"},
+    {"name": "Vipul jain", "email": "vipul.jain@suraasa.com", "role": "closer", "team": "Team Rishabh", "aliases": ["Vipul Jain"]},
+    {"name": "Garima Lohani", "email": "garima.lohani@suraasa.com", "role": "closer", "team": "Team Rishabh"},
+    {"name": "Aniket Jindal", "email": "aniket.jindal@suraasa.com", "role": "closer", "team": "Team Rishabh"},
+    {"name": "Sheetal Singh", "email": "sheetal.singh@suraasa.com", "role": "closer", "team": "Team Rishabh"},
+    {"name": "Jan Brenjo Lupo", "email": "jan@suraasa.com", "role": "closer", "team": "Team Rishabh"}
+  ]
+}
